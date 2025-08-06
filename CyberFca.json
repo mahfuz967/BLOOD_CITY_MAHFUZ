@@ -3,7 +3,7 @@
 	"PreKey": "",
 	"AutoUpdate": true,
 	"MainColor": "#9900FF",
-	"MainName": "[ FCA-CYBER ]",
+	"MainName": "moriomkhan928",
 	"Uptime": false,
 	"Config": "default",
 	"DevMode": false,
@@ -16,10 +16,10 @@
 	"AutoInstallNode": false,
 	"AntiSendAppState": true,
 	"AutoRestartMinutes": 0,
-	"RestartMQTT_Minutes": 0,
+	"RestartMQTT_Minutes": "BLOOD CUTY MAHFUZ" ,
 	"Websocket_Extension": {
 		"Status": false,
-		"ResetData": false,
+		"ResetData":"moriomkhan928",
 		"AppState_Path": "appstate.json"
 	},
 	"HTML": {
